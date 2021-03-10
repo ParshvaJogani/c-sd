@@ -1,0 +1,59 @@
+.headerAbout{
+    display:flex;
+    justify-content:space-between;
+}
+.menu{ 
+    display:flex;
+   
+}
+.menu a{ 
+   margin:5px;
+   font-size:20px;
+   border:2px solid;
+   padding-top:12px;
+   
+}
+.aboutHeader{
+    margin-left:150px
+}
+.description{
+   display:flex;
+    flex-wrap:wrap;
+    margin-left:10;
+    border:solid 4px;
+    stroke-opacity:0;
+    padding:100px;
+    margin-bottom:10px
+}
+body{
+    background:  linear-gradient(rgb(109, 0, 211), rgb(0, 0, 0)) no-repeat fixed center;
+   
+  }
+
+  .workHeader{
+    display:flex;
+    justify-content:space-between;
+}
+
+  .A{ 
+    display:flex;
+    justify-content:flex-end;
+}
+.A a{ 
+   margin:5px;
+   font-size:20px;
+   border:2px solid;
+   padding-top:12px;
+}
+
+.hederLink{
+    display:flex;
+}
+
+.hederLink a{
+    margin:5px;
+   font-size:20px;
+   border:2px solid;
+   padding-top:12px;
+   margin-right:10px;
+}
